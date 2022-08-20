@@ -1,14 +1,21 @@
 ## 30 Days of Code | Scaler
 
+
 ### Introduction
 
 This is a collection of 30 days of code challenges that I made while learning to code for 30 straight days starting August 18.
+<br>
+<br>
+
 
 ### Why did I participated in this challenge?
 
 We want to cultivate the habit of coding regularly. As with any other discipline, doing something over and over again is what builds skills and coding is no different.
 
 I took a pledge to become **1%** better everyday with the rest of the Scaler Community!
+<br>
+<br>
+
 
 ### How will this repo help you?
 
