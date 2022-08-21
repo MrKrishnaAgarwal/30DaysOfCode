@@ -28,3 +28,4 @@ This challenge is to help you learn to code and to get better at it.
 - Day 1: [Python If-Else](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%201)
 - Day 2: [Odd or Even](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%202)
 - Day 3: [Arithmetic Operators](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%203)
+- Day 4: [Largest and Smallest](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%204)
