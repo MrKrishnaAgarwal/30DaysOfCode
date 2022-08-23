@@ -36,6 +36,7 @@ Run the below command to complete the requirements of this repo:
 ```bash
 pip install -r requirements.txt
 ```
+<br>
 
 ### 30 Days of Code | Scaler | Challenges
 
