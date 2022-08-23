@@ -30,3 +30,4 @@ This challenge is to help you learn to code and to get better at it.
 - Day 3: [Arithmetic Operators](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%203)
 - Day 4: [Largest and Smallest](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%204)
 - Day 5: [Positive or Negative](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%205)
+- Day 6: [Text to Speech](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%206)
