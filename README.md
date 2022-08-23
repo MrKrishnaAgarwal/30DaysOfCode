@@ -23,6 +23,20 @@ This challenge is to help you learn to code and to get better at it.
 
 <br>
 
+### Requirements
+
+* You must be able to write code in a language of your choice.
+* You must be able to write code that is readable and maintainable.
+* You must be able to write code that is efficient and performant.
+* You must be able to write code that is maintainable and scalable.
+* You must be able to write code that is testable.
+
+Run the below command to complete the requirements of this repo:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### 30 Days of Code | Scaler | Challenges
 
 - Day 1: [Python If-Else](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%201)
