@@ -19,6 +19,6 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h3>Hey, Welcome to this repo, Congratulations on opening your issue. Keep Contributing to Hacktoberfest 2022</h3>'
-          pr-message: '<h3>Hey, Welcome to this repo, Congratulations on opening your Pull Request. Keep Contributing to Hacktoberfest 2022</h3>'
+          issue-message: '<h3>Hey, Welcome to this repo, Congratulations on opening your issue. Keep Contributing to 30 Days of Code </h3>'
+          pr-message: '<h3>Hey, Welcome to this repo, Congratulations on opening your Pull Request. Keep Contributing to 30 Days of Code </h3>'
           footer: '<h4>I''ll try to review and add you work as soon as possible. Meanwhile, You can also Follow me on <a href="https://github.com/MrKrishnaAgarwal">GitHub</a>, and <a href="https://twitter.com/DMKrishnaA">Twitter</a> also Feel free to checkout my other cool <a href="https://github.com/MrKrishnaAgarwal?tab=repositories">repositories</a> and <a href="https://dev.to/krishnaagarwal">articles</a></h4>'
