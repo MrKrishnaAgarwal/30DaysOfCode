@@ -46,3 +46,4 @@ pip install -r requirements.txt
 - Day 4: [Largest and Smallest](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%204)
 - Day 5: [Positive or Negative](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%205)
 - Day 6: [Text to Speech](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%206)
+- Day 7: [Vowel or Consonant](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%207)
