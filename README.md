@@ -8,7 +8,7 @@ This is a collection of 30 days of code challenges that I made while learning to
 <br>
 
 
-### Why did I participated in this challenge?
+### Why I participated in this challenge?
 
 We want to cultivate the habit of coding regularly. As with any other discipline, doing something over and over again is what builds skills and coding is no different.
 
@@ -47,3 +47,4 @@ pip install -r requirements.txt
 - Day 5: [Positive or Negative](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%205)
 - Day 6: [Text to Speech](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%206)
 - Day 7: [Vowel or Consonant](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%207)
+- Day 8: [Survey Form](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%208)
