@@ -6,4 +6,11 @@
     You can fill it out and submit it.
 </p>
 
-<img src= Website.png>
+Website Link: 
+https://www.mrkrishna.me/30DaysOfCode/Day%208
+
+or
+
+https://www.mrkrishna.me/SurveyForm
+
+<img src= Website.png width=400>
