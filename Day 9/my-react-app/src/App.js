@@ -22,7 +22,7 @@ function App() {
         <h3>Made with ❤ by Krishna Agarwal</h3>
       </header>
       <br></br>
-      <img src= "https://octodex.github.com/images/baracktocat.jpg" width="300" />
+      <img src= "cat.jpg" width="300" />
       <h2>Bye 👋🏻</h2>
     </div>
   );
