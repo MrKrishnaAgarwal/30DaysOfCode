@@ -22,7 +22,7 @@ function App() {
         <h3>Made with ❤ by Krishna Agarwal</h3>
       </header>
       <br></br>
-      <img src= "cat.jpg" width="300" />
+      <img src= "cat.jpg" width="300" alt="end" />
       <h2>Bye 👋🏻</h2>
     </div>
   );
