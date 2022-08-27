@@ -49,3 +49,4 @@ pip install -r requirements.txt
 - Day 7: [Vowel or Consonant](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%207)
 - Day 8: [Survey Form](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%208)
 - Day 9: [React App](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%209)
+- Day 10: [Check if Leap Year or Not](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2010)
