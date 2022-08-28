@@ -27,9 +27,6 @@ This challenge is to help you learn to code and get better at it.
 
 * You must be able to write code in a language of your choice.
 * You must be able to write code that is readable and maintainable.
-* You must be able to write code that is efficient and performant.
-* You must be able to write code that is maintainable and scalable.
-* You must be able to write code that is testable.
 
 Run the below command to complete the requirements of this repo:
 
@@ -50,3 +47,36 @@ pip install -r requirements.txt
 - Day 8: [Survey Form](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%208)
 - Day 9: [React App](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%209)
 - Day 10: [Check if Leap Year or Not](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2010)
+- Day 11: [Functions](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2011)
+<br>
+
+### How to contribute?
+
+* Fork this repo.
+* Clone the forked repo.
+* Create a new branch.
+* Make changes to the code.
+* Commit the changes.
+* Push the changes to the forked repo.
+* Create a pull request.
+
+<br>
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+
+<br>
+
+
+### Author
+
+* Krishna Agarwal
+* [Twitter](https://twitter.com/dmkrishnaa)
+* [GitHub](https://github.com/mrkrishnaagarwal)
+* [Website](https://mrkrishnaagarwal.github.io/)
+* [Email](mailto:dmkrishna.agarwal@gmail.com)
+
+### Support
+
+If you like this project, please consider supporting me by starring this repo and sharing it with your friends.
