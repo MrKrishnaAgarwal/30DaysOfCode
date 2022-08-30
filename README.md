@@ -48,7 +48,8 @@ pip install -r requirements.txt
 - Day 9: [React App](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%209)
 - Day 10: [Check if Leap Year or Not](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2010)
 - Day 11: [Functions](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2011)
-- Day 12: [Loops](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2012)
+- Day 12: [Dictionary](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2012)
+- Day 13: [Loops](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2013)
 <br>
 
 ### How to contribute?
