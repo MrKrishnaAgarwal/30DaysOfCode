@@ -28,7 +28,20 @@ This challenge is to help you learn to code and get better at it.
 * You must be able to write code in a language of your choice.
 * You must be able to write code that is readable and maintainable.
 
-Run the below command to complete the requirements of this repo:
+Run the below commands to complete the requirements of this repo:
+
+First, clone the repo:
+
+```bash
+git clone
+```
+
+Then, run the following command:
+
+```bash
+cd 30DaysOfCode
+```
+Finally:
 
 ```bash
 pip install -r requirements.txt
@@ -50,6 +63,7 @@ pip install -r requirements.txt
 - Day 11: [Functions](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2011)
 - Day 12: [Dictionary](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2012)
 - Day 13: [Loops](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2013)
+- Day 14: [List](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2014)
 <br>
 
 ### How to contribute?
@@ -66,14 +80,14 @@ pip install -r requirements.txt
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+**This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.**
 
 <br>
 
 
 ### Author
 
-* Krishna Agarwal
+* **Krishna Agarwal**
 * [Twitter](https://twitter.com/dmkrishnaa)
 * [GitHub](https://github.com/mrkrishnaagarwal)
 * [Website](https://mrkrishnaagarwal.github.io/)
@@ -81,4 +95,6 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 
 ### Support
 
-If you like this project, please consider supporting me by starring this repo and sharing it with your friends.
+**If you like this project, please consider supporting me by starring this repo and sharing it with your friends.**
+
+<img src= "https://octodex.github.com/images/collabocats.jpg" width="350">
