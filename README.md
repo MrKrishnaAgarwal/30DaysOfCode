@@ -33,7 +33,7 @@ Run the below commands to complete the requirements of this repo:
 First, clone the repo:
 
 ```bash
-git clone
+git clone https://github.com/MrKrishnaAgarwal/30DaysOfCode.git
 ```
 
 Then, run the following command:
@@ -64,6 +64,7 @@ pip install -r requirements.txt
 - Day 12: [Dictionary](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2012)
 - Day 13: [Loops](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2013)
 - Day 14: [List](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2014)
+- Day 15: [String Manipulation](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2015)
 <br>
 
 ### How to contribute?
