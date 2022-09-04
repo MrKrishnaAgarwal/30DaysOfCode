@@ -67,6 +67,7 @@ pip install -r requirements.txt
 - Day 15: [String Manipulation](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2015)
 - Day 16: [Random](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2016)
 - Day 17: [Random Password Generator](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2017)
+- Day 18: [PyWhatKit](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2018)
 <br>
 
 ### How to contribute?
