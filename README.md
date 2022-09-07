@@ -70,6 +70,7 @@ pip install -r requirements.txt
 - Day 18: [PyWhatKit](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2018)
 - Day 19: [UnitTest](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2019)
 - Day 20: [PyAutoGUI](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2020)
+- Day 21: [Decimal to Binary, Octal and Hexadecimal](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2021)
 <br>
 
 ### How to contribute?
