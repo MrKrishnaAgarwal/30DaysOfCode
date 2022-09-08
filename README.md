@@ -86,6 +86,10 @@ pip install -r requirements.txt
 
 <br>
 
+### Note: I use GitHub Copilot to write Markdown content, so it might use your content, If Yes, please let me know so that I can remove it.
+
+<br>
+
 ### License
 
 **This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.**
