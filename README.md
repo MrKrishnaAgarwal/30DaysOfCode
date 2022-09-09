@@ -72,6 +72,7 @@ pip install -r requirements.txt
 - Day 20: [PyAutoGUI](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2020)
 - Day 21: [Decimal to Binary, Octal and Hexadecimal](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2021)
 - Day 22: [URL Shortener](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2022)
+- Day 23: [PythonTurtle](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2023)
 <br>
 
 ### How to contribute?
