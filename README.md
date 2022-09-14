@@ -77,6 +77,7 @@ pip install -r requirements.txt
 - Day 25: [Array]((https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2025)
 - Day 26: [Using Requests](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2026)
 - Day 27: [Open and Read the file, Write and Run it](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2027)
+- Day 28: [Number List Shuffle and Reverse](https://github.com/MrKrishnaAgarwal/30DaysOfCode/tree/main/Day%2028)
 <br>
 
 ### How to contribute?
