@@ -16,7 +16,7 @@ if n%2!=0:
 else:
     if n>=2 and n<=5:
         print("Not Weird")
-    if n>=6 and n<=20:
+    elif n>=6 and n<=20: #it is advisable to use proper if else ladder
         print("Weird")
-    if n>20:
+    elif n>20:
         print("Not Weird")
