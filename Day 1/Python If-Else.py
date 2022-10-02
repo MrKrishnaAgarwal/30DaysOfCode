@@ -10,13 +10,9 @@ import sys
 
 if __name__ == '__main__':
     n = int(input().strip())
-
-if n%2!=0:
-       print("Weird")
-else:
-    if n>=2 and n<=5:
-        print("Not Weird")
-    elif n>=6 and n<=20: #it is advisable to use proper if else ladder
-        print("Weird")
-    elif n>20:
-        print("Not Weird")
+    
+    status = "Not Weird"
+    if n % 2 != 0 or (n % 2 == 0 and 5<n<21):
+        status = "Weird"
+    
+    print(status)
