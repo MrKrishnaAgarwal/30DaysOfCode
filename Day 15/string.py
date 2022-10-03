@@ -7,7 +7,7 @@ print("The word is:",word)
 
 def count_words(word):
     return len(word)
-print(word, "has", count_words(word) , "digits")
+print(word, "has", count_words(word) , "characters")#as saying digit as the size of string may confuse peoples, as we are returning the length of string)
 
 def string_reverse(word):
     return word[::-1]
